@@ -1,8 +1,8 @@
-# Hola, soy Tristán
+# 👋 Hola, soy Tristán
 
 Desarrollador web y multiplataforma  
-Apasionado por crear soluciones inteligentes  
-Siempre aprendiendo y listo para nuevos retos
+Me gusta aprender nuevas tecnologías y mejorar con cada proyecto en el que trabajo. 
+No busco impresionar con palabras, sino avanzar paso a paso y hacer las cosas bien.
 
 ## Proyectos
 *En desarrollo... ¡muy pronto!*
